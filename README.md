@@ -1,6 +1,6 @@
 # mpvue-weapp-template
 
->使用mpvue通过usingComponents导入[iview-weapp](https://github.com/TalkingData/iview-weapp)和[vant-weapp](https://github.com/youzan/vant-weapp)
+>使用mpvue通过usingComponents导入[iview-weapp](https://github.com/TalkingData/iview-weapp)和[vant-weapp](https://github.com/youzan/vant-weapp)来方便快捷高效的开发微信小程序。
 
 ## 预览
 
