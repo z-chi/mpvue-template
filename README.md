@@ -6,10 +6,10 @@
 
 ``` bash
 1. git clone
-git clone https://github.com/z-chi/mpvue-template.git
+git clone https://github.com/z-chi/mpvue-weapp-template.git
 
 2. 安装依赖
-cd mpvue-template && npm install
+cd mpvue-weapp-template && npm install
 
 3. 启动程序
 npm run dev
