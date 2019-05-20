@@ -1,15 +1,15 @@
-# mpvue-iview-weapp
+# mpvue-weapp-template
 
->使用mpvue通过usingComponents导入[iview-weapp](https://github.com/TalkingData/iview-weapp)
+>使用mpvue通过usingComponents导入[iview-weapp](https://github.com/TalkingData/iview-weapp)和[vant-weapp](https://github.com/youzan/vant-weapp)
 
 ## 预览
 
 ``` bash
 1. git clone
-git clone https://github.com/wkl007/mpvue-iview-weapp.git
+git clone https://github.com/z-chi/mpvue-template.git
 
 2. 安装依赖
-cd mpvue-iview-weapp && npm install
+cd mpvue-template && npm install
 
 3. 启动程序
 npm run dev
